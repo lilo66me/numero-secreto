@@ -1,0 +1,1 @@
+let peso = prompt ('Qual seu peso:');
